@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+.h1{
+    height: 5rem;
+    background-color: #0f1111;
+    text-align: center;
+    color: aliceblue;
+    font-size: 19px;
+    align-items: center;
+    
+}
+
+.link{
+    color: aliceblue;
+}
+ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #272929;
+    height: 3rem;
+    color: aliceblue;
+    text-decoration: none;
+    list-style: none;    
+}
+
+
+.border{
+    border: 2px solid transparent;
+}
+.border:hover{
+    border-bottom: 2px solid blue;
+    
+}
+
+
+.btn{
+    height: 30px;
+    width: 60px;
+}
+
+.btn:hover{
+    color: rgb(218, 199, 35);
+}
